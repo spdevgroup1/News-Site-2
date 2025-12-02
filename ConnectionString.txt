@@ -1,0 +1,12 @@
+SRV ATLAST
+
+mongodb+srv://manager_db_user:iLjfKQn4vfaM5JX3@cluster0.ogjompv.mongodb.net/
+
+iLjfKQn4vfaM5JX3
+
+
+export MONGODB_URI="mongodb+srv://manager_db_user:iLjfKQn4vfaM5JX3@cluster0.ogjompv.mongodb.net/"
+
+
+mongodb+srv://manager_db_user:iLjfKQn4vfaM5JX3@cluster0.ogjompv.mongodb.net/?appName=Cluster0
+
