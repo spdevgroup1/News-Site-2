@@ -20,7 +20,7 @@ book_db = client.Books
 book_collection = book_db.Books_Read
 printer = pprint.PrettyPrinter()
 
-for book in book_collection.find():
+for book in book_collection.find_one({"_id":"pymongo.ObjectId("692e18229b1e706ed49d6a5f")"}):
   printer.pprint(book)       
   
   books = []
